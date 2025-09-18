@@ -1,4 +1,6 @@
-const Cuddle = () => {
+import React from "react";
+
+const Cuddles = () => {
   return (
     <div className="bg-black p-8">
       <h1 className="text-6xl text-white text-red-500 mb-5">Hi Suwes ❤️😍</h1>
@@ -68,4 +70,4 @@ const Cuddle = () => {
   );
 };
 
-export default Cuddle;
+export default Cuddles;

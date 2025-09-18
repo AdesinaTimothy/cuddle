@@ -1,7 +1,7 @@
-import Cuddle from "./cuddle";
+import Cuddles from "./Cuddles";
 
 function App() {
-  return <Cuddle />;
+  return <Cuddles />;
 }
 
 export default App;
