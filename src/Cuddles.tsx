@@ -7,11 +7,11 @@ const Cuddles = () => {
         <p>This is me honestly apologizing once again</p>
 
         <p>
-          I was reminising on the beautiful moments that we have shared together
-          ☹️, I can't but see how much we love each other. Honestly, It breaks
-          my heart to hear that statement of yours "You've always hurt me", I
-          had to delete that message from my chat because I was going back to it
-          and it wasn't healthy for me nor both of us.
+          I was reminiscing about the beautiful moments we've shared together
+          ☹️, I can't help but see how much we love each other. Honestly, it
+          breaks my heart to hear that statement of yours "You've always hurt
+          me", I had to delete that message from my chat because I was going
+          back to it and it wasn't healthy for me.
         </p>
         <p>
           I know I have hurt you, but a part of me still find it so hard to
